@@ -1,6 +1,4 @@
-
-# Project Name
-Openhaus Task
+# Openhaus Task
 
 ## Prerequisites
 
